@@ -1,2 +1,2 @@
 # demo
-Profitable futures trading
+This is a demo repo
